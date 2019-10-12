@@ -21,6 +21,7 @@ Following python libraries:
 6. Seaborn
 7. Sklearn
 8. Pipeline, train_test_split, GridSearchCV, LinearRegression, r2_score, classification_Report, accuracy_score, recall_score, precision_score, f1_score, TfidfVectorizer, MultiOutputClassifer, AdaBoostClassifier, GradientBoostingClassifier, BaseEstimatore, TransformerMixin, MLPClassifier
+9. SQLAlchemy
 
 
 I used the Anconda python distribution with python 3.0
@@ -90,4 +91,4 @@ We are using two models to classify messages
 
 - This data set is  provided to us by [Figure Eight]((https://www.figure-eight.com/)
 - test train split error https://datascience.stackexchange.com/questions/20199/train-test-split-error-found-input-variables-with-inconsistent-numbers-of-sam
--Pandas string split https://pandas.pydata.org/pandas-docs/version/0.23/generated/pandas.Series.str.split.html
+- Pandas string split https://pandas.pydata.org/pandas-docs/version/0.23/generated/pandas.Series.str.split.html
