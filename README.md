@@ -57,20 +57,15 @@ app:
   -master.html
 -run.py
 
-GLoVe:
-- glove.6B.50d.txt
-- glove.6B.100d.txt
-- glove.6B.200d.txt
-- glove.6B.300d.txt
+
 
 
 ## Summary Of Models<a name="Models"></a>
 
-We are using two models to classify messages
+We are using below model to classify messages
 
 1. In the first model, we use Tfidf vectorizer to transform messages and then we use Adaboost Classifier to classify messages
 
-2. In the second model, we use pretrained GLoVe embedding in MLP neural network to transform messages and then we classify them .
 
 
 ## Instructions<a name = "Instructions"></a>
