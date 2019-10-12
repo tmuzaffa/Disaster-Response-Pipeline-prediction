@@ -72,7 +72,7 @@ We are using two models to classify messages
 2. In the second model, we use pretrained GLoVe embedding in MLP neural network to transform messages and then we classify them .
 
 
-## Instructions<a name = "Instructions">(/a>
+## Instructions<a name = "Instructions"></a>
 1. Run the following commands in the project's root directory to set up your database and model.
 
     - To run ETL pipeline that cleans data and stores in database
