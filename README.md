@@ -53,9 +53,9 @@ models:
 
 app:
 - templates
-  -go.html
-  -master.html
--run.py
+- go.html
+- master.html
+- run.py
 
 
 
