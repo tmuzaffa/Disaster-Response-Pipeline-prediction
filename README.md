@@ -35,7 +35,7 @@ This data set is  provided to us by [Figure Eight]((https://www.figure-eight.com
 
 ## File Descriptions <a name="files"></a>
 
-Vancouver folder contains five files
+
 
 
 data:
