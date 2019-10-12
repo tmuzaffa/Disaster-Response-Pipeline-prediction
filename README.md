@@ -49,7 +49,7 @@ data:
 models:
 - train_classifer.py
 - ML Pipeline Preparation.ipynb
-- glove_vectorizer.py
+
 
 app:
 - templates
