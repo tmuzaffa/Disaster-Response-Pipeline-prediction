@@ -7,7 +7,8 @@
 3. [File Descriptions](#files)
 4. [Summary Of Models](#Models)
 5. [Instructions](#Instructions)
-6. [Acknowledgements](#acknowledgements)
+6. [Charts](#Charts)
+7. [Acknowledgements](#acknowledgements)
 
 ## Libraries used for the project <a name="libraries"></a>
 
@@ -81,6 +82,10 @@ We are using below model to classify messages
 
 3. Go to http://0.0.0.0:3001/
 
+## Charts<a name = "Charts"></a>
+![Distribution of messages generes and categories](https://github.com/tmuzaffa/Disaster-Response-Pipeline-prediction/blob/master/plotly2.JPG)
+
+  
   
 ## Acknowledgements<a name="acknowledgements"></a>
 
